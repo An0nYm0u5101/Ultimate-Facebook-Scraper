@@ -1,3 +1,4 @@
 selenium==3.141.0
 pyyaml
 webdriver_manager
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
